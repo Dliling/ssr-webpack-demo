@@ -1,0 +1,8 @@
+{
+    "presets": [
+        // 支持ES6
+        "@babel/preset-env",
+        // react编译
+        "@babel/preset-react"
+    ]
+}
